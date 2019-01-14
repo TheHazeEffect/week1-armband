@@ -1,4 +1,4 @@
-#Eclipse gitignore stuff
+#Eclipse gitignore stuff------------------------------
 .metadata
 bin/
 tmp/
@@ -57,7 +57,7 @@ local.properties
 
 
 
-# Java Gitignore stuff
+# Java Gitignore stuff-----------------------------
 # Compiled class file
 *.class
 
@@ -83,7 +83,7 @@ local.properties
 hs_err_pid*
 
 
-#MAVEN gitignore stuffs
+#MAVEN gitignore stuffs------------------------------
 target/
 pom.xml.tag
 pom.xml.releaseBackup
